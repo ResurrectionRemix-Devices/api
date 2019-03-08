@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 { "response": [ { "datetime": 1552072756, "filename": "RR-P-v7.0.1-20190308-hltekor-Official.zip", "id": "0390e7bbaa217a95e9982b623d7015bffe062dd5d5c558c8acb0ca033ef83a1c", "romtype": "Official", "size": 454949011, "url": "https://downloads.sourceforge.net/project/resurrectionremix-pie/hltekor/RR-P-v7.0.1-20190308-hltekor-Official.zip", "version": "7.0.1"  }]}
+=======
+{ "response": [ { "datetime": 1551552700, "filename": "RR-P-v7.0.0-20190302-hltekor-Official.zip", "id": "c64f31000081fc01af8c099286c7158803c4fa89f90a01d920b692633f9b7de8", "romtype": "Official", "size": 455020275, "url": "https://downloads.sourceforge.net/project/resurrectionremix-pie/hltekor/RR-P-v7.0.0-20190302-hltekor-Official.zip", "version": "7.0.0"  }]}
+>>>>>>> parent of 71f59b2... Fri Mar  8 23:38:25 UTC 2019 hltechn update
