@@ -1,2 +1,1 @@
-{ "response": [ { "datetime": 1597662872, "filename": "RROS-Q-8.5.8-20200817-mido-Official.zip", "id": "b24e69cc52a530b9a4ed4195af1fc431383e94a3a39f3f60d09c15aa62070996", "romtype": ""
-, "size": 758803915, "url": "https://ota.resurrectionremix.com/ten/mido/RROS-Q-8.5.8-20200817-mido-Official.zip", "version": "8.5.8"  }]}
+{ "response": [ { "datetime": 1597662872, "filename": "RROS-Q-8.5.8-20200817-mido-Official.zip", "id": "b24e69cc52a530b9a4ed4195af1fc431383e94a3a39f3f60d09c15aa62070996", "romtype": "Official", "size": 758803915, "url": "https://ota.resurrectionremix.com/ten/mido/RROS-Q-8.5.8-20200817-mido-Official.zip", "version": "8.5.8"  }]}
