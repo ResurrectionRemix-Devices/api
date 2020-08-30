@@ -1,1 +1,1 @@
-Inital commit
+ResurrectionRemix Updater JSON API
