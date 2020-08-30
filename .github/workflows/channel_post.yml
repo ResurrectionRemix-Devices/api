@@ -39,5 +39,5 @@ jobs:
                     echo "<b>SHA256:</b> <code>$sha</code>"
                 } > "${msg}"
                 MESSAGE=$(cat "$msg")
-                curl -s "https://api.telegram.org/bot${BOT_TOKEN}/sendmessage" --data "text=$MESSAGE&chat_id=$CHAT_ID&parse_mode=HTML"
+                curl -s "https://api.telegram.org/bot${{ secrets.BOT_TOKEN }}/sendmessage" --data "text=$MESSAGE&chat_id=$CHAT_ID&parse_mode=HTML"
             done
