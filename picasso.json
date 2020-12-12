@@ -1,1 +1,3 @@
-{ "response": [ { "datetime": 1607751070, "filename": "RROS-Q-8.6.5-20201212-picasso-Official.zip", "id": "ddd6211b701a067f98c0372e838acb258fa9bb3cd89dc78c46be5326ce5f585a", "romtype": "Official", "size": 792631003, "url": "https://ota.resurrectionremix.com/ten/picasso/RROS-Q-8.6.5-20201212-picasso-Official.zip", "version": "8.6.5"  }]}
+{ "response": [ { "datetime": 1607799377, "filename": "RROS-Q-8.6.5-20201212-picasso-Experimental.zip", "id": "35225216e2fd4c6bd578118c9edd836a3c00e5522452fd594eb8231e48e7cb9b
+ddd6211b701a067f98c0372e838acb258fa9bb3cd89dc78c46be5326ce5f585a", "romtype": "Experimental", "size": 792618628
+792631003, "url": "https://ota.resurrectionremix.com/ten/picasso/RROS-Q-8.6.5-20201212-picasso-Experimental.zip", "version": "8.6.5"  }]}
