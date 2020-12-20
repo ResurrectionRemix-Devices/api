@@ -1,1 +1,3 @@
-{ "response": [ { "datetime": 1603123113, "filename": "RROS-Q-8.6.3-20201019-RMX1901-Official.zip", "id": "7c6fa427004e8f997ce3c822d16b0e186b3c15b4232d0e595c8ef3603644f0a0", "romtype": "Official", "size": 1345611529, "url": "https://ota.resurrectionremix.com/ten/RMX1901/RROS-Q-8.6.3-20201019-RMX1901-Official.zip", "version": "8.6.3"  }]}
+{ "response": [ { "datetime": 1608428652, "filename": "RROS-Q-8.6.5-20201220-RMX1901-Official.zip", "id": "f5e734c813be22afc12ef0e8972e21efc7de1b8dd741c0e8bb7890da307e24c3
+2cd571b137a0eb91258828e2cfbe6ee417f392a663d89251ae816901e4a09d01", "romtype": "Official", "size": 1350779329
+1350648383, "url": "https://ota.resurrectionremix.com/ten/RMX1901/RROS-Q-8.6.5-20201220-RMX1901-Official.zip", "version": "8.6.5"  }]}
