@@ -1,2 +1,1 @@
-{ "response": [ { "datetime": 1607950070, "filename": "RROS-Q-8.6.5-20201215-jason-Official.zip", "id": "b4400789f6f7b9bd36f580541ddd45d086b0b629273e5763c1b76f0e5606ce94", "romtype": "Official", "size":912452798, "url": "https://ota.resurrectionremix.com/ten/jason/RROS-Q-8.6.5-20201215-jason-Official.zip", "version": "8.6.5"  }]}
- 
+{ "response": [ { "datetime": 1612123371, "filename": "RROS-Q-8.6.6-20210131-jason-Official.zip", "id": "732127d1079fe098d06a1e783fa800e2c9be98cb121ee431f7992cbdbdf9d62f", "romtype": "Official", "size": 913454474, "url": "https://ota.resurrectionremix.com/ten/jason/RROS-Q-8.6.6-20210131-jason-Official.zip", "version": "8.6.6"  }]}
