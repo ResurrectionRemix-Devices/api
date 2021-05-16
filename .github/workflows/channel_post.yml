@@ -33,7 +33,7 @@ jobs:
                 sha=$(jq -r .response[].id "${device}")
                 {
                     echo "<b>New Build for ${d} available</b>"
-                    echo "<a href=\"https://get.resurrectionremix.com/?dir=ten/$d\">${zip}</a>"
+                    echo "<a href=\"https://sourceforge.net/projects/resurrectionremix-ten/files/$d\">${zip}</a>"
                     echo
                     echo "<b>FileSize:</b> $filesize MB"
                     echo "<b>SHA256:</b> <code>$sha</code>"
